@@ -1,4 +1,3 @@
-
 Operation	O
 Steel	O
 Curtain	O
