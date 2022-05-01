@@ -1,4 +1,3 @@
-
 Carter	B-Person
 thanked	O
 Abadi	B-Person
